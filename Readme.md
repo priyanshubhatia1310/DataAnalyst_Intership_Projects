@@ -18,7 +18,7 @@ The CORONA VIRUS pandemic has had a significant impact on public health and has 
 need for data-driven insights to understand the spread of the virus. As a data analyst, you have been
 tasked with analyzing a CORONA VIRUS dataset to derive meaningful insights and present your findings.
 
-Description of each column in dataset:
+Description of each column in dataset:-
 
 1. Province: Geographic subdivision within a country/region.
 2. Country/Region: Geographic entity where data is recorded.
@@ -62,7 +62,7 @@ comprehensive visualizations and insights that shed light on trends, patterns, a
 Through Power BI, interns will explore key metrics such as pricing, availability, host characteristics, and review scores to derive 
 actionable insights for improving the overall quality and competitiveness of the listings.
 
-Dataset Description:
+Dataset Description:-
 
 1. id: Unique identifier for each listing.
 2. listing_url: URL of the listing on the hotel aggregator platform.
