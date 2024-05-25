@@ -6,7 +6,7 @@
 
 🔶 I'm excited to present a quick video that explains coordinate-based visualization, such as maps and other visual aids. 
 
-   Plotting latitude and longitude/Customizing map layers/Geocoding addresses: Discuss spatial analysis capabilities, including plotting latitude and longitude coordinates, customizing map layers, and geocoding 
+📊 Plotting latitude and longitude/Customizing map layers/Geocoding addresses: Discussed spatial analysis capabilities, including plotting latitude and longitude coordinates, customizing map layers, and geocoding 
     addresses for mapping and geographic visualization.
     
 📊 Tableau maps provide a flexible and intuitive platform for analyzing and visualizing geographic data, enabling users to obtain insightful knowledge and make informed decisions. Tableau maps are an effective tool 
