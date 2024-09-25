@@ -1,4 +1,4 @@
-# Mentorness_Intership_Projects
+# DataAnalyst_Intership_Projects
 
 ### Project I :- REEL TASK - TABLEAU
 
